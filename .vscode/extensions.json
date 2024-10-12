@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "DEVSENSE.phptools-vscode",
+        "xdebug.php-debug",
+        "DEVSENSE.profiler-php-vscode",
+        "hakcorp.php-awesome-snippets",
+        "DEVSENSE.composer-php-vscode",
+        "DEVSENSE.intelli-php-vscode",
+        "formulahendry.auto-close-tag",
+        "yo1dog.cursor-align",
+        "christian-kohler.path-intellisense",
+    ]
+}
